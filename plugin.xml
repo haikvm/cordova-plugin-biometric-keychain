@@ -49,9 +49,6 @@
         <source-file src="src/android/FingerprintUiHelper.java" target-dir="src/com/cordova/plugin/android/fingerprintauth" />
         <source-file src="res/android/drawable/ic_fingerprint_error.xml" target-dir="res/drawable" />
         <source-file src="res/android/drawable/ic_fingerprint_success.xml" target-dir="res/drawable" />
-        
-		<source-file src="res/android/drawable-hdpi/ic_fp_40px.png" target-dir="res/drawable" />
-		
         <source-file src="res/android/drawable-hdpi/ic_fp_40px.png" target-dir="res/drawable-hdpi" />
         <source-file src="res/android/drawable-mdpi/ic_fp_40px.png" target-dir="res/drawable-mdpi" />
         <source-file src="res/android/drawable-nodpi/android_robot.png" target-dir="res/drawable-nodpi" />
